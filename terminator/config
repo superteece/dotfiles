@@ -1,0 +1,20 @@
+[global_config]
+  title_font = Ubuntu Mono derivative Powerline 11
+  title_hide_sizetext = True
+  title_use_system_font = False
+  window_state = maximise
+[keybindings]
+[layouts]
+  [[default]]
+    [[[child1]]]
+      parent = window0
+      type = Terminal
+    [[[window0]]]
+      parent = ""
+      type = Window
+[plugins]
+[profiles]
+  [[default]]
+    cursor_color = "#aaaaaa"
+    font = Ubuntu Mono derivative Powerline 16
+    use_system_font = False
